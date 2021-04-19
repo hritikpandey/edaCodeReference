@@ -4,6 +4,7 @@ This repo contains five EDA projects for diffrent types of eda codes
 Content of each ipython notebook
 
 BIKE EDA
+
 scatter plot
 describe()
 countplot on time data
@@ -12,6 +13,7 @@ datetime conversion
 line plot
 
 BlackFriday EDA
+
 Converting categorical data into integer ones by using mapping function.
 visualizing the unique values of the particular field.
 Mapping the range variable into integer ones.
@@ -24,6 +26,7 @@ converting the datatypes into integer ones as the datatype for these columns are
 barplot
 
 Christiano Ronaldo EDA
+
 info()
 Checking for Missing Values
 Labelencoding
@@ -31,6 +34,7 @@ Handeling Missing Values
 Label Encoding the Object type Columns
 
 Diabetes
+
 histogram
 null count analysis using missignno.bar
 pair plot
@@ -40,6 +44,7 @@ plot_decision_regions
 confusion matrix heatmap
 
 FIFA EDA
+
 Wordcloud
 histogram
 barplot
